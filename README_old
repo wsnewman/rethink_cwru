@@ -1,6 +1,0 @@
-These packages are clone from:  https://github.com/RethinkRobotics
-
-Two of these: baxter_common and baxter_simulator, are cloned from a cwru fork of these packages from rethink.  Forks were used in order to make modifications, notably to the urdf in baxter_common (to
-add Kinect sensor) and to baxter_gazebo in baxter_simulator (to add modifications to launch file
-for Kinect, and to add additional launch file w/ beer table)
-
